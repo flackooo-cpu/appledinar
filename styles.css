@@ -46,14 +46,14 @@ button {
 
 /* Style for Bad Apples (non-winning apples) */
 .apple.bad-apple {
-    background-image: url('Images/bad-apple.png');
+    background-image: url('images/bad-apple.png');
     background-size: cover;
     background-position: center;
 }
 
 /* Style for Good Apple (winning apple) */
 .apple.winning-apple {
-    background-image: url('Images/good-apple.png');
+    background-image: url('images/good-apple.png');
     background-size: cover;
     background-position: center;
 }
