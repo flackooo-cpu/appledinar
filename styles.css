@@ -31,8 +31,8 @@ button {
 }
 
 .apple {
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,7 +40,7 @@ button {
 }
 
 .apple img {
-    width: 80px; /* Adjust apple size */
+    width: 60px; /* Adjust apple size */
     height: auto;
 }
 
